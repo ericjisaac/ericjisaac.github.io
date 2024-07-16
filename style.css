@@ -40,6 +40,7 @@ html, body {
 body {
 	margin-left: var(--nav-bar-size);
 	background: var(--color-light-1);
+	min-width: 20rem;
 }
 
 canvas {
