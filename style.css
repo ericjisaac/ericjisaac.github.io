@@ -223,3 +223,14 @@ li {
 .zoom:hover {
 	transform: scale(1.06125);
 }
+
+@media (max-width: 28rem) {
+	.nav-bar {
+		display: none;
+	}
+
+	body {
+		margin: 0px;
+		width: 100%;
+	}
+}
